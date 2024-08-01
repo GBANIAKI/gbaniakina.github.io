@@ -11,9 +11,9 @@ My journey in computer science has let me to develop a passion for coding, and I
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project]
 
-| Skill                                                                  |                                    Assoiated project                                                                   
+| Skill                                                                                |                                    Assoiated project                                                    |
 |--------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------| 
-| SIEM Implementation and Log  Analysis                                                | <a href="https://google.com">Detection Lab</a>                                                          |
+| SIEM Implementation and Log  Analysis                                                |                        <a href="https://github.com/GBANIAKI/Detection-lab/tree/main">Detection Lab</a>  |
 | Network Traffic Minitoring and Attack Detection                                      | < href="https://google.com">Detection Lab</a>                                                           |
 | Security Automation with  Shuffle SOAR                                               | SOC Automation Lab                                                                                      |
 | Incident Response Planning and Execution                                             | SOC  Automation Lab                                                                                     |
@@ -56,6 +56,6 @@ My journey in computer science has let me to develop a passion for coding, and I
 </div>
 
 ## Projects
- - detection Lab
+ - <a href="https://github.com/GBANIAKI/Detection-lab/tree/main">Detection Lab</a> 
  - SOC Automation Prject
  - 
